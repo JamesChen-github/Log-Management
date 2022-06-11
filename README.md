@@ -1,2 +1,2 @@
 # Log-Management
-日志管理
+日志管理系统
